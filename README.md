@@ -1,2 +1,2 @@
 # Firewatch-Guide
-## Repo moveed to [Firewatch](https://github.com/SophiaAtkinson/Firewatch)
+## Repo moveed to [Project Firewatch](https://github.com/ProjectFirewatch/Firewatch)
